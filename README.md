@@ -25,6 +25,14 @@ Pratiquer les commandes Linux de manière interactive :
 * https://www.learnshell.org/
 * https://bellard.org/jslinux/
 
+
+Pratiquer les commandes git de manière interactive et ludique :
+* https://learngitbranching.js.org/?locale=fr_FR
+* https://gitimmersion.com/
+* https://ohmygit.org/
+
+
+
 ---
 
 Ce dépôt est en constante évolution au fil de mes découvertes et besoins. N’hésitez pas à l’utiliser comme support ou inspiration si vous apprenez Git/Linux !
