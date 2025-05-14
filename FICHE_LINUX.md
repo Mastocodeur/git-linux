@@ -30,6 +30,7 @@ Ce document regroupe les principales commandes Linux utiles pour la navigation, 
 | `cp [src] [dest]`        | Copie un fichier ou dossier            |
 | `mv [src] [dest]`        | Déplace ou renomme un fichier/dossier |
 | `cat [fichier]`          | Affiche le contenu d’un fichier        |
+| `more [fichier]`         | Affiche un fichier page par page       |
 | `less [fichier]`         | Affiche page par page                  |
 | `head -n 10 [fichier]`   | Affiche les 10 premières lignes        |
 | `tail -n 10 [fichier]`   | Affiche les 10 dernières lignes        |
