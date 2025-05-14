@@ -11,6 +11,20 @@ Il sert de référence personnelle pour retrouver rapidement les syntaxes et com
 - Utilisation de GitHub
 - Astuces avancées et cas particuliers
 
+
+## Sources 
+
+
+Paint your Github : 
+* https://github-painter.vercel.app/
+
+Pratiquer les commandes Linux de manière interactive :
+
+* https://linuxsurvival.com/
+* https://overthewire.org/wargames/bandit/
+* https://www.learnshell.org/
+* https://bellard.org/jslinux/
+
 ---
 
 Ce dépôt est en constante évolution au fil de mes découvertes et besoins. N’hésitez pas à l’utiliser comme support ou inspiration si vous apprenez Git/Linux !
